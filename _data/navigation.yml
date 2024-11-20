@@ -12,7 +12,8 @@ main:
     url: /distinctions/    
 
   - title: "Resume"
-    url: /files/resume.pdf
+    url: /resume/    
+    # url: /files/resume.pdf
     
   # - title: "Portfolio"
   #   url: /portfolio/
