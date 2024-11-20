@@ -8,15 +8,15 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "Conference presentations"
+    url: /conferences/
+
   - title: "Academic Distinctions"
-    url: /distinctions/    
+    url: /distinctions/
 
   - title: "Resume"
     url: /resume/    
     # url: /files/resume.pdf
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/

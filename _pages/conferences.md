@@ -1,0 +1,33 @@
+---
+layout: archive
+title: ""
+permalink: /conferences/
+author_profile: true
+redirect_from:
+  - /conferences
+---
+
+{% include base_path %}
+
+2024 (Upcoming)
+======
+- **Sathe A.S.,** Anderson W., Calaf M., Giometto M.G., Rearrangement of secondary flows in multi-column roughness configurations. In APS DFD Meeting, November 2024, Salt Lake City, Utah.
+  - *Oral Presentation. Manuscript is currently under preparation.*
+- **Sathe A.S.,** Anderson W., Calaf M., Giometto M.G., Rearrangement of secondary flows in multi-column roughness configurations. In AGU Fall Meeting, December 2024, Washington D.C.
+  - *Oral Presentation. Manuscript is currently under preparation.*
+
+2023
+======
+- **Sathe A.S.,** Giometto M.G., Impact of numerical domain on turbulent flow statistics: scalings and considerations for canopy flows. In APS DFD Meeting, November 2023, Washington D.C.
+
+  - *Oral presentation on section 3.3 of the paper titled "[Impact of the numerical domain on turbulent flow statistics: scalings and considerations for canopy flows](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/impact-of-the-numerical-domain-on-turbulent-flow-statistics-scalings-and-considerations-for-canopy-flows/15C2D590F6004128CDF73822D171ABE6)"*
+
+- **Sathe A.S.,** Giometto M.G., Impact of numerical domain on turbulent flow statistics: scalings and considerations for canopy flows. In AGU Fall Meeting, December 2023, San Francisco, California.
+
+  - *Poster on section 3.1 of the paper titled "[Impact of the numerical domain on turbulent flow statistics: scalings and considerations for canopy flows](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/impact-of-the-numerical-domain-on-turbulent-flow-statistics-scalings-and-considerations-for-canopy-flows/15C2D590F6004128CDF73822D171ABE6)"*
+
+2022
+======
+- **Sathe A.S.,** Giometto M.G., Impact of numerical domain on turbulent flow statistics: scalings and considerations for canopy flows. In AGU Fall Meeting, December 2022, Chicago, IL.
+
+  - *Oral presentation on section 3.3 of the paper titled "[Impact of the numerical domain on turbulent flow statistics: scalings and considerations for canopy flows](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/impact-of-the-numerical-domain-on-turbulent-flow-statistics-scalings-and-considerations-for-canopy-flows/15C2D590F6004128CDF73822D171ABE6)"*
