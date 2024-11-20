@@ -16,3 +16,5 @@ My expected graduation date is Fall 2025, and I'm currently looking for postdoct
 Previously, I earned a Bachelor’s and Master’s degree in Technology in Aerospace Engineering from IIT Bombay.
 
 ![flow-over-cuboids](../images/flow-over-cuboids-1.png)
+
+
