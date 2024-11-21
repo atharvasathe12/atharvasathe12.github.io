@@ -29,7 +29,10 @@ Since the alignment of these pathways significantly influences performance-criti
 2. Demonstrated that the strength of secondary flows is not diminished in intermediate configurations. In these configurations, the secondary flows undergo frequent, instantaneous rearrangements, which results in a misleading appearance of their destruction in long-time averaged flow fields.
 
 ![Inst-flow-reversal](../images/Inst-flow-reversal.png)
-*Figure 1: Instantaneous reversal of secondary flow structures (highlight #2)*
+
+<div style="text-align: center;">
+Figure 1: Instantaneous reversal of secondary flow structures (highlight #2)
+</div>
 
 
 ## Impact of the numerical domain on turbulent flow statistics: scalings and considerations for canopy flows
@@ -54,7 +57,9 @@ This results in underprediction of second-order statistics.
 
 <!-- | ![Flow-viz](../images/fig5-1%202.png) | -->
 <div style="text-align: center;">
-<img src="../images/fig5-1%202.png" alt="Image description" width="550" height="500">
+<img src="../images/fig5-1%202.png" alt="Image description" width="715" height="650">
 </div>
 
-*Figure 2: Artificial disruption of turbulent coherence due to narrow domain (highlight #1)*
+<div style="text-align: center;">
+Figure 2: Artificial disruption of turbulent coherence due to narrow domain (highlight #1)
+</div>
