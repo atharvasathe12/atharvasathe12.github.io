@@ -28,9 +28,8 @@ Since the alignment of these pathways significantly influences performance-criti
 1. Discovered that gap between roughness elements of neighboring columns is a crucial parameter which dictates the alignment of aforementioned pathways, a parameter previously unknown in the literature.
 2. Demonstrated that the strength of secondary flows is not diminished in intermediate configurations. In these configurations, the secondary flows undergo frequent, instantaneous rearrangements, which results in a misleading appearance of their destruction in long-time averaged flow fields.
 
-| ![Inst-flow-reversal](../images/Inst-flow-reversal.png) |
-|:--:|
-| *Figure 1: Instantaneous reversal of secondary flow structures in multi-column roughness configurations (highlight #2)* |
+![Inst-flow-reversal](../images/Inst-flow-reversal.png)
+*Figure 1: Instantaneous reversal of secondary flow structures in multi-column roughness configurations (highlight #2)*
 
 
 ## Impact of the numerical domain on turbulent flow statistics: scalings and considerations for canopy flows
@@ -53,6 +52,9 @@ This results in underprediction of second-order statistics.
 1. Showed, using the aforementioned method, that domains with small scale separation may dampen turbulent fluctuations in the outer layer due to their close proximity to the upper boundary.
 1. Established that scale separation is not the sole parameter governing the existence of an inertial sublayer in the atmosphere; the underlying arrangement of canopy elements also plays a significant role, a fact previously unknown in the literature.
 
-| ![Flow-viz](../images/fig5-1%202.png) |
-|:--:|
-| *Figure 2: Artificial disruption of turbulent coherence due to narrow domain (highlight #1)* |
+<!-- | ![Flow-viz](../images/fig5-1%202.png) | -->
+<div style="text-align: center;">
+<img src="../images/fig5-1%202.png" alt="Image description" width="500" height="470">
+
+*Figure 2: Artificial disruption of turbulent coherence due to narrow domain (highlight #1)*
+</div>
