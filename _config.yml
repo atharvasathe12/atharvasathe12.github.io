@@ -21,7 +21,7 @@ repository               : "atharvasathe12/atharvasathe12.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_0982.jpg"
+  avatar           : "headshot.JPG"
   name             : "Atharva Sunil Sathe"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate studying boundary layer turbulence"
