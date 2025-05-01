@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-2024 (Upcoming)
+2024
 ======
 - **Sathe A.S.,** Anderson W., Calaf M., Giometto M.G., Rearrangement of secondary flows in multi-column roughness configurations. In APS DFD Meeting, November 2024, Salt Lake City, Utah.
   - *Oral Presentation. Manuscript is currently under preparation.*
