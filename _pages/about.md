@@ -11,7 +11,7 @@ My [research](https://atharvasathe12.github.io/research/) aims to deepen our und
 For these investigations, I use Large Eddy Simulations to model turbulent flows over both resolved obstacles and parameterized roughness elements.
 
 I am currently a Ph.D. candidate at Columbia University, where I'm advised by [prof. Marco G. Giometto](https://www.civil.columbia.edu/content/marco-giovanni-giometto).
-I also closely collaborate with [prof. William Anderson](https://me.utdallas.edu/people/faculty/william-anderson/) and [prof. Marc Calaf](https://www.mech.utah.edu/directory/faculty/marc-calaf/).
+I also closely collaborate with [prof. Marc Calaf](https://www.mech.utah.edu/directory/faculty/marc-calaf/) and [prof. William Anderson](https://me.utdallas.edu/people/faculty/william-anderson/).
 My expected graduation date is Fall 2025, and I'm currently looking for postdoctoral opportunities starting in Spring 2026.
 Previously, I earned a Bachelor’s and Master’s degree in Technology in Aerospace Engineering from IIT Bombay.
 
