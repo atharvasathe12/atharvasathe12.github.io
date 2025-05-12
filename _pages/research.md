@@ -41,7 +41,7 @@ Figure 1: Instantaneous reversal of secondary flow structures (highlight #2)
 ## Impact of the numerical domain on turbulent flow statistics: scalings and considerations for canopy flows
 **Advisor: [Prof. Marco G. Giometto](https://www.civil.columbia.edu/content/marco-giovanni-giometto)**
 
-**Publication status: Published in *JFM*, ([link](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/impact-of-the-numerical-domain-on-turbulent-flow-statistics-scalings-and-considerations-for-canopy-flows/15C2D590F6004128CDF73822D171ABE6)). Results presented at APS DFD 2023 and AGU Fall Meetings 2022 and 2023.**
+**Publication status: Published in *JFM* ([link](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/impact-of-the-numerical-domain-on-turbulent-flow-statistics-scalings-and-considerations-for-canopy-flows/15C2D590F6004128CDF73822D171ABE6)). Results presented at APS DFD 2023 and AGU Fall Meetings 2022 and 2023.**
 
 **Overview**:
 
