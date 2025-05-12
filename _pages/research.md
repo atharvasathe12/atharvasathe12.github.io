@@ -12,21 +12,24 @@ redirect_from:
 <!-- This webpage is currently under development. Please check back later for updates. -->
 
 <!-- Specifying research title -->
-## Reversal of mean and instantaneous secondary flow structures in multi-column roughness configurations
+## On the structure and dynamics of secondary flows over multi-column roughness in turbulent boundary layers
 **Advisor: [Prof. Marco G. Giometto](https://www.civil.columbia.edu/content/marco-giovanni-giometto)**, **Collaborators: [Prof. William Anderson](https://me.utdallas.edu/people/faculty/william-anderson/), [Prof. Marc Calaf](https://www.mech.utah.edu/directory/faculty/marc-calaf/)**
 
-**Publication status: Manuscript is currently under preparation for consideration in *JFM*.**
+**Publication status: Manuscript in preparation for *JFM*. Results presented at APS DFD 2024 and AGU Fall Meeting 2024.**
 
 **Overview**:
 
 This research seeks to examine the parameters of roughness configurations that are crucial in determining the alignment of high- and low-momentum pathways induced by secondary flows. 
 Since the alignment of these pathways significantly influences performance-critical quantities such as drag and heat transfer, identifying these parameters is essential to improving our predictive capabilities.
-
+To examine these effects in a physically relevant setting, we use wind turbines as roughness elements—reflecting their role as porous obstacles in applications such as wind farms and other complex surface environments.
 
 **Highlights**:
 
-1. Discovered that gap between roughness elements of neighboring columns is a crucial parameter which dictates the alignment of aforementioned pathways, a parameter previously unknown in the literature.
-2. Demonstrated that the strength of secondary flows is not diminished in intermediate configurations. In these configurations, the secondary flows undergo frequent, instantaneous rearrangements, which results in a misleading appearance of their destruction in long-time averaged flow fields.
+1. Discovered that the spanwise gap between edge-most roughness elements of adjacent columns is a key geometric parameter that dictates the polarity of secondary flows—a governing factor previously unrecognized in the literature.
+2. Demonstrated that the strength of secondary flows is not diminished in intermediate configurations; rather, frequent polarity reversals lead to a misleading appearance of their absence in long-time-averaged fields.
+3. Showed that in all cases, including those with strong polarity in the time-averaged flow field, the high- and low-momentum pathways undergo chaotic, non-periodic switching over time.
+4. Found that, despite markedly different mean flow structures, the vertical velocity signal exhibits similar quasi-periodic oscillations across all cases, indicating that frequent pathway switching reflects a near-zero mean state rather than an inherently chaotic fluctuation pattern.
+5. Established that variability in vertical momentum transport is a fundamental and persistent feature of roughness-induced secondary flows.
 
 ![Inst-flow-reversal](../images/Inst-flow-reversal.png)
 
@@ -38,7 +41,7 @@ Figure 1: Instantaneous reversal of secondary flow structures (highlight #2)
 ## Impact of the numerical domain on turbulent flow statistics: scalings and considerations for canopy flows
 **Advisor: [Prof. Marco G. Giometto](https://www.civil.columbia.edu/content/marco-giovanni-giometto)**
 
-**Publication status: Published in *JFM*. ([link](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/impact-of-the-numerical-domain-on-turbulent-flow-statistics-scalings-and-considerations-for-canopy-flows/15C2D590F6004128CDF73822D171ABE6))**
+**Publication status: Published in *JFM*, ([link](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/impact-of-the-numerical-domain-on-turbulent-flow-statistics-scalings-and-considerations-for-canopy-flows/15C2D590F6004128CDF73822D171ABE6)). Results presented at APS DFD 2023 and AGU Fall Meetings 2022 and 2023.**
 
 **Overview**:
 
