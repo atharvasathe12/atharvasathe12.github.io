@@ -28,7 +28,7 @@ To examine these effects in a physically relevant setting, we use wind turbines 
 1. Discovered that the spanwise gap between edge-most roughness elements of adjacent columns is a key geometric parameter that dictates the polarity of secondary flows—a governing factor previously unrecognized in the literature.
 2. Showcased that secondary flows fundamentally alter *mke* entrainment pathways; notably, the expected increase in lateral entrainment with wider spanwise spacing can reverse due to the interplay between high-momentum fluid availability and strong advective downdrafts over roughness elements.. 
 3. Demonstrated that the strength of secondary flows is not diminished in intermediate configurations; rather, frequent polarity reversals lead to a misleading appearance of their absence in long-time-averaged fields.
-4. Showed that in all cases, including those with strong polarity in the time-averaged flow field, the high- and low-momentum pathways undergo chaotic, non-periodic switching over time.
+4. Showed that in all cases, including those with strong polarity in the time-averaged flow field, the high- and low-momentum pathways undergo chaotic, non-periodic reversals over time.
 5. Found that, despite markedly different mean flow structures, the vertical velocity signal exhibits similar quasi-periodic oscillations across all cases, indicating that frequent pathway switching reflects a near-zero mean state rather than an inherently chaotic fluctuation pattern.
 6. Established that variability in vertical momentum transport is a fundamental and persistent feature of roughness-induced secondary flows.
 
@@ -42,12 +42,12 @@ Figure 1: Influence of secondary flows on the entrainment of <i>mke</i>. (a) No 
 
 
 
-
+<!-- 
 ![Inst-flow-reversal](../images/Inst-flow-reversal.png)
 
 <div style="text-align: center;">
 Figure 2: Instantaneous reversal of secondary flow structures (highlight #3)
-</div>
+</div> -->
 
 
 ## Impact of the numerical domain on turbulent flow statistics: scalings and considerations for canopy flows
