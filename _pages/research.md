@@ -37,7 +37,7 @@ To examine these effects in a physically relevant setting, we use wind turbines 
 </p>
 
 <div style="text-align: center;">
-Figure 1: Influence of secondary flows on the entrainment of <i>mke</i>. (a) No secondary flow: spanwise spacing = 10D. (c) With secondary flow: spacing = 15D. Panels (b) and (d) compare the tube height and width at different upstream locations: Purple (10D), Red (15D) (highlight #2)
+Figure 1: Influence of secondary flows on the entrainment of <i>mke</i> (energy tubes). (a) No secondary flow: spanwise spacing = 10D. (c) With secondary flow: spacing = 15D. Panels (b) and (d) compare the tube height and width at different upstream locations: Purple (10D), Red (15D) (highlight #2)
 </div>
 
 
