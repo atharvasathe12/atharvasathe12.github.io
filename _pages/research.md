@@ -62,7 +62,6 @@ This study shows that the choice of the numerical domain can significantly impac
 **Highlights**:
 
 1. Demonstrated that a narrow domain (width/height << 3.0) may be insufficient to accommodate both fast and slow turbulent streaks, leading to the artificial disruption of turbulent coherence. This results in an underprediction of second-order statistics.
-This results in underprediction of second-order statistics.
 1. Showed that a short domain (length/height << 6.0) may artificially enhance turbulent coherence due to excessive periodization, which leads to an overprediction of second-order statistics.
 1. Proved that the widely used conventional method for testing the impact of scale separation in canopy flow simulations contains significant flaws and proposed a novel alternative method that isolates the impact of scale separation with greater accuracy.
 1. Showed, using the aforementioned method, that domains with small scale separation may dampen turbulent fluctuations in the outer layer due to their close proximity to the upper boundary.
