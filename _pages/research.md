@@ -92,7 +92,7 @@ Similar to project #1, this project aims to improve our predictive capabilities 
 1. Formulated a theoretical framework linking secondary flows to canonical large-scale coherent structures that get spatially ‘locked-in’ due to the spanwise roughness heterogeneity.
 
 <div style="text-align: center;">
-<img src="../images/urban_reversal_notitle.png" alt="Image description" width="715" height="223.4375">
+<img src="../images/urban_reversal_notitle.png" alt="Image description" width="900" height="280.6993006993">
 </div>
 
 <div style="text-align: center;">
