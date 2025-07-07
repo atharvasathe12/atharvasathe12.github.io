@@ -75,3 +75,26 @@ This study shows that the choice of the numerical domain can significantly impac
 <div style="text-align: center;">
 Figure 3: Artificial disruption of turbulent coherence due to narrow domain (highlight #1)
 </div>
+
+
+## 3. Project #3
+**Advisor: [Prof. Marco G. Giometto](https://www.civil.columbia.edu/content/marco-giovanni-giometto)**
+
+**Publication status: Currently in concluding analysis phase. Manuscript not initiated.**
+
+**Overview**:
+
+Similar to project #1, this project aims to improve our predictive capabilities of roughness-induced secondary flow polarity, i.e. the alignment of low- and high-momentum pathways w.r.t roughness elements.
+
+**Highlights**:
+
+1. Discovered another surface parameter that critically governs the polarity of roughness-induced secondary flows.
+1. Formulated a theoretical framework linking secondary flows to canonical large-scale coherent structures that get spatially ‘locked-in’ due to the spanwise roughness heterogeneity.
+
+<div style="text-align: center;">
+<img src="../images/urban_reversal_notitle.png" alt="Image description" width="715" height="223.4375">
+</div>
+
+<div style="text-align: center;">
+Figure 4: Reversal of secondary flow polarity (highlight #1). Background color: streamwise velocity. Arrows: spanwise and vertical velocity.
+</div>
