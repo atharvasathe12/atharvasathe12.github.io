@@ -77,7 +77,7 @@ Figure 3: Artificial disruption of turbulent coherence due to narrow domain (hig
 </div>
 
 
-## 3. Project #3
+<!-- ## 3. Project #3
 **Advisor: [Prof. Marco G. Giometto](https://www.civil.columbia.edu/content/marco-giovanni-giometto)**
 
 **Publication status: Currently in concluding analysis phase. Manuscript not initiated.**
@@ -97,4 +97,4 @@ Similar to project #1, this project aims to improve our predictive capabilities 
 
 <div style="text-align: center;">
 Figure 4: Reversal of secondary flow polarity (highlight #1). Background color: streamwise velocity. Arrows: spanwise and vertical velocity.
-</div>
+</div> -->
