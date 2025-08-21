@@ -15,7 +15,7 @@ redirect_from:
 ## 1. On the structure and dynamics of secondary flows over multi-column roughness in turbulent boundary layers
 **Advisor: [Prof. Marco G. Giometto](https://www.civil.columbia.edu/content/marco-giovanni-giometto)**, **Collaborators: [Prof. William Anderson](https://me.utdallas.edu/people/faculty/william-anderson/), [Prof. Marc Calaf](https://www.mech.utah.edu/directory/faculty/marc-calaf/)**
 
-**Publication status: Under review (*JFM*). Results presented at APS DFD 2024 and AGU Fall Meeting 2024.**
+**Publication status: Under review in *JFM* ([arXiv](https://arxiv.org/abs/2508.05889)). Results presented at APS DFD 2024 and AGU Fall Meeting 2024.**
 
 **Overview**:
 
@@ -32,19 +32,19 @@ To examine these effects in a physically relevant setting, we use wind turbines 
 5. Found that, despite markedly different mean flow structures, the vertical velocity signal exhibits similar quasi-periodic oscillations across all cases, indicating that frequent pathway switching reflects a near-zero mean state rather than an inherently chaotic fluctuation pattern.
 6. Established that variability in vertical momentum transport is a fundamental and persistent feature of roughness-induced secondary flows.
 
-<p align="center">
+<!-- <p align="center">
   <img src="../images/2T_3T_slices_with_htwt.png" alt="mke-tubes" width="65%">
 </p>
 
 <div style="text-align: center;">
 Figure 1: Influence of secondary flows on the entrainment of <i>mke</i> (energy tubes). (a) No secondary flow: spanwise spacing = 10D. (c) With secondary flow: spacing = 15D. Panels (b) and (d) compare the tube height and width at different upstream locations: Purple (10D), Red (15D) (highlight #2)
-</div>
+</div> -->
 
 
 ![Inst-flow-reversal](../images/Inst-flow-reversal.png)
 
 <div style="text-align: center;">
-Figure 2: Instantaneous reversal of secondary flow structures (highlight #3)
+Figure: Instantaneous reversal of secondary flow structures (highlight #3)
 </div>
 
 
@@ -73,14 +73,14 @@ This study shows that the choice of the numerical domain can significantly impac
 </div>
 
 <div style="text-align: center;">
-Figure 3: Artificial disruption of turbulent coherence due to narrow domain (highlight #1)
+Figure: Artificial disruption of turbulent coherence due to narrow domain (highlight #1)
 </div>
 
 
-<!-- ## 3. Project #3
+## 3. Secondary flow polarity in turbulent boundary layers shaped by directional bias from surface roughness
 **Advisor: [Prof. Marco G. Giometto](https://www.civil.columbia.edu/content/marco-giovanni-giometto)**
 
-**Publication status: Currently in concluding analysis phase. Manuscript not initiated.**
+**Publication status: Under review in JFM (Rapids)**
 
 **Overview**:
 
@@ -88,13 +88,13 @@ Similar to project #1, this project aims to improve our predictive capabilities 
 
 **Highlights**:
 
-1. Discovered another surface parameter that critically governs the polarity of roughness-induced secondary flows.
-1. Formulated a theoretical framework linking secondary flows to canonical large-scale coherent structures that get spatially ‘locked-in’ due to the spanwise roughness heterogeneity.
+1. Established aerodynamic roughness of the base wall as a new governing parameter of secondary flow polarity.
+1. Proposed a unifying framework linking Prandtl's secondary flows of second kind to self-sustaining processes in canonical turbulence, offering new insight into their origin, persistence, and polarity..
 
 <div style="text-align: center;">
-<img src="../images/urban_reversal_notitle.png" alt="Image description" width="900" height="280.6993006993">
+<img src="../images/urban_reversal_combined_hatched3.png" alt="Image description" width="900" height="531.3986013986">
 </div>
 
 <div style="text-align: center;">
-Figure 4: Reversal of secondary flow polarity (highlight #1). Background color: streamwise velocity. Arrows: spanwise and vertical velocity.
-</div> -->
+Figure: Reversal of secondary flow polarity (highlight #1). Arrows: spanwise and vertical velocity.
+</div>
