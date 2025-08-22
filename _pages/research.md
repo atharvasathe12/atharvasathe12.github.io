@@ -15,7 +15,7 @@ redirect_from:
 ## 1. On the structure and dynamics of secondary flows over multi-column roughness in turbulent boundary layers
 **Advisor: [Prof. Marco G. Giometto](https://www.civil.columbia.edu/content/marco-giovanni-giometto)**, **Collaborators: [Prof. William Anderson](https://me.utdallas.edu/people/faculty/william-anderson/), [Prof. Marc Calaf](https://www.mech.utah.edu/directory/faculty/marc-calaf/)**
 
-**Publication status: Under review in *JFM* ([arXiv](https://arxiv.org/abs/2508.05889)). Results presented at APS DFD 2024 and AGU Fall Meeting 2024.**
+**Publication status: Under review at JFM ([arXiv](https://arxiv.org/abs/2508.05889)). Results presented at APS DFD 2024 and AGU Fall Meeting 2024.**
 
 **Overview**:
 
@@ -51,7 +51,7 @@ Figure: Instantaneous reversal of secondary flow structures (highlight #3)
 ## 2. Impact of the numerical domain on turbulent flow statistics: scalings and considerations for canopy flows
 **Advisor: [Prof. Marco G. Giometto](https://www.civil.columbia.edu/content/marco-giovanni-giometto)**
 
-**Publication status: Published in *JFM* ([link](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/impact-of-the-numerical-domain-on-turbulent-flow-statistics-scalings-and-considerations-for-canopy-flows/15C2D590F6004128CDF73822D171ABE6)). Results presented at APS DFD 2023 and AGU Fall Meetings 2022 and 2023.**
+**Publication status: Published in JFM ([link](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/impact-of-the-numerical-domain-on-turbulent-flow-statistics-scalings-and-considerations-for-canopy-flows/15C2D590F6004128CDF73822D171ABE6)). Results presented at APS DFD 2023 and AGU Fall Meetings 2022 and 2023.**
 
 **Overview**:
 
@@ -80,7 +80,7 @@ Figure: Artificial disruption of turbulent coherence due to narrow domain (highl
 ## 3. Secondary flow polarity in turbulent boundary layers shaped by directional bias from surface roughness
 **Advisor: [Prof. Marco G. Giometto](https://www.civil.columbia.edu/content/marco-giovanni-giometto)**
 
-**Publication status: Under review in JFM (Rapids)**
+**Publication status: Under review at JFM (Rapids)**
 
 **Overview**:
 
