@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Please click [here](../files/resume.pdf) to download the resume.
+Please click [here](../files/resume_long.pdf) to download the resume.
