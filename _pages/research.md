@@ -78,7 +78,7 @@ Figure: Instantaneous reversal of secondary flow structures (highlight #3)
 ## 3. Secondary flow polarity in turbulent boundary layers shaped by directional bias from surface roughness
 **Advisor: [Prof. Marco G. Giometto](https://www.civil.columbia.edu/content/marco-giovanni-giometto)**
 
-**Publication status: Under review at JFM (Rapids)**
+**Publication status: Under preparation**
 
 **Overview**:
 
