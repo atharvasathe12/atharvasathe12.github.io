@@ -11,7 +11,7 @@ redirect_from:
 <!-- - Received **Teaching Assistant Excellence Award** for outstanding student mentorship in Dynamics & Vib. course.  `2023`
 - Received **Teaching Assistant Excellence Award** for outstanding student mentorship in Fluid Mechanics course.  `2022`
 <br> -->
-- Received two **Teaching Assistant Excellence Awards** at Columbia University for outstanding student mentorship and instruction: one for Fluid Mechanics `2022`, and another for Dynamics and Vibrations `2023`.
+- Received two **Teaching Assistant Excellence Awards** at Columbia University for outstanding student mentorship and instruction: one for Fluid Mechanics `2021`, and another for Dynamics and Vibrations `2022`.
 - Awarded **Institute Silver Medal** at 58th Convocation, IIT Bombay.                             `2020`
 - **Ranked 1st** in the Dual Degree batch of the Aerospace Engineering Department.               `2020`
 - Awarded the prestigious **NTU-India Connect Program Scholarship** for academic excellence.     `2018`
