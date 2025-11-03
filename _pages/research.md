@@ -87,7 +87,8 @@ Similar to project #2, this project aims to improve our predictive capabilities 
 **Highlights**:
 
 1. Established aerodynamic roughness of the base wall as a new governing parameter of secondary flow polarity.
-1. Proposed a unifying framework linking Prandtl's secondary flows of second kind to self-sustaining processes in canonical turbulence, offering new insight into their origin, persistence, and polarity..
+1. Demonstrated, using POD analysis, how large-scale energetic modes reorganize in response to the presence or absence of mean secondary flows.
+
 
 <div style="text-align: center;">
 <img src="../images/urban_reversal_combined_hatched3.png" alt="Image description" width="900" height="531.3986013986">
