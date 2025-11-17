@@ -41,7 +41,7 @@ Figure: Artificial disruption of turbulent coherence due to narrow domain (highl
 ## 2. On the structure and dynamics of secondary flows over multi-column roughness in turbulent boundary layers
 **Advisor: [Prof. Marco G. Giometto](https://www.civil.columbia.edu/content/marco-giovanni-giometto)**, **Collaborators: [Prof. William Anderson](https://me.utdallas.edu/people/faculty/william-anderson/), [Prof. Marc Calaf](https://www.mech.utah.edu/directory/faculty/marc-calaf/)**
 
-**Publication status: Under review at JFM ([arXiv](https://arxiv.org/abs/2508.05889)). Results presented at APS DFD 2024 and AGU Fall Meeting 2024.**
+**Publication status: Accepted for publication in JFM ([arXiv](https://arxiv.org/abs/2508.05889)). Results presented at APS DFD 2024 and AGU Fall Meeting 2024.**
 
 **Overview**:
 
