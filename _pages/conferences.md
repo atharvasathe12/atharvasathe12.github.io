@@ -9,12 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+2025
+======
+- **Sathe A.S.,** Anderson W., Calaf M., Giometto M.G., Characteristics of instantaneous secondary flows. In APS DFD Meeting, November 2025, Houston, Texas.
+  - *Interact Presentation on section 4 of the paper titled "[On the structure and dynamics of secondary flows over multi-column roughness in channel flow](https://arxiv.org/abs/2508.05889)"*
+
 2024
 ======
 - **Sathe A.S.,** Anderson W., Calaf M., Giometto M.G., Rearrangement of secondary flows in multi-column roughness configurations. In APS DFD Meeting, November 2024, Salt Lake City, Utah.
-  - *Oral Presentation. Manuscript is currently under review at JFM ([arXiv](https://arxiv.org/abs/2508.05889)).*
+  - *Oral Presentation on section 3 of the paper titled "[On the structure and dynamics of secondary flows over multi-column roughness in channel flow](https://arxiv.org/abs/2508.05889)"*
 - **Sathe A.S.,** Anderson W., Calaf M., Giometto M.G., Rearrangement of secondary flows in multi-column roughness configurations. In AGU Fall Meeting, December 2024, Washington D.C.
-  - *Oral Presentation. Manuscript is currently under review at JFM ([arXiv](https://arxiv.org/abs/2508.05889)).*
+  - *Oral Presentation on section 3 of the paper titled "[On the structure and dynamics of secondary flows over multi-column roughness in channel flow](https://arxiv.org/abs/2508.05889)"*
 
 2023
 ======
