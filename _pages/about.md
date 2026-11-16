@@ -15,17 +15,17 @@ My <a href="{{ base_path }}/research/">research</a> uses large-eddy simulations 
 </p>
 
 <figure class="hero-video wide-media">
-  <video src="{{ base_path }}/files/wake_eps_T15MW_eps12_notitle_uref10_short.mp4"
-         poster="{{ base_path }}/images/wake_movie_poster.jpg"
+  <video src="{{ base_path }}/files/wake_eps_T15MW_eps12_notitle_uref10_stack_30s.mp4"
+         poster="{{ base_path }}/images/wake_movie_stack_poster.jpg"
          autoplay muted loop playsinline preload="auto"
          title="Click to view full screen"
          onclick="if (this.requestFullscreen) { this.requestFullscreen(); } else if (this.webkitEnterFullscreen) { this.webkitEnterFullscreen(); }">
   </video>
   <figcaption>
     Large-eddy simulation of the IEA 15 MW reference turbine with the actuator line model.
-    Left: blade forces projected onto the LES grid, viewed from upstream.
-    Middle: streamwise velocity in a cross-section 1.07 rotor diameters downstream.
-    Right: vertical plane through the rotor, showing the wake developing downstream.
+    Top left: blade forces projected onto the LES grid, viewed from upstream.
+    Top right: streamwise velocity in a cross-section 1.07 rotor diameters downstream.
+    Bottom: vertical plane through the rotor, showing the wake developing downstream.
     Click the movie to view it full screen.
   </figcaption>
 </figure>
