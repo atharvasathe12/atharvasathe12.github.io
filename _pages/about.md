@@ -15,7 +15,7 @@ My <a href="{{ base_path }}/research/">research</a> uses large-eddy simulations 
 </p>
 
 <figure class="hero-video wide-media">
-  <video src="{{ base_path }}/files/wake_eps_T15MW_eps12_notitle_uref10_stack_30s.mp4"
+  <video src="{{ base_path }}/files/wake_eps_T15MW_eps_light_u-magma_col2-magma_12000steps_5.115deg_uref10_only-eps12_notitle_stack.mp4"
          poster="{{ base_path }}/images/wake_movie_stack_poster.jpg"
          autoplay muted loop playsinline preload="auto"
          title="Click to view full screen"
