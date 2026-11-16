@@ -12,7 +12,7 @@ redirect_from:
 <h2 class="talk-year">2026</h2>
 
 <div class="talk">
-  <span class="badge">Oral Presentation</span>
+  <span class="badge badge--new">Upcoming</span> <span class="badge">Oral Presentation</span>
   <span class="talk-title">Assessing the filtered-lifting line method for coarse-grid actuator-line representation of wind turbines in LES</span>
   <span class="talk-authors"><strong>Sathe A.S.</strong>, Gayme D.F., Meneveau C.</span>
   <span class="talk-venue">APS DFD Meeting, November 2026, Orlando, Florida</span>

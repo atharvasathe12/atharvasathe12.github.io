@@ -17,7 +17,8 @@ redirect_from:
   <h2>Analytical corrections for coarse-grid actuator line simulations</h2>
   <p class="research-meta">
     <strong>Mentors:</strong> <a href="https://engineering.jhu.edu/faculty/charles-meneveau/">Prof. Charles Meneveau</a>, <a href="https://engineering.jhu.edu/faculty/dennice-gayme/">Prof. Dennice Gayme</a><br>
-    <strong>Presented at:</strong> APS DFD 2026, ARROW-SEA 2026, CEAFM&ndash;Burgers&ndash;GWU Symposium 2026, JHU Mechanical Engineering Seminar Series 2026
+    <strong>Presented at:</strong> ARROW-SEA 2026, CEAFM&ndash;Burgers&ndash;GWU Symposium 2026, JHU Mechanical Engineering Seminar Series 2026<br>
+    <strong>Upcoming:</strong> APS DFD 2026, Orlando, Florida (November 22)
   </p>
   <div class="badges">
     <span class="badge badge--new">Manuscript in preparation &middot; Wind Energy Science</span>
@@ -49,12 +50,6 @@ redirect_from:
     The combined corrections are assessed for the NREL 5 MW, DTU 10 MW, IEA 15 MW and IEA 22 MW reference turbines at resolutions from 3 to 30 LES grid points per blade.
   </p>
 
-  <div class="stat-grid">
-    <div class="stat"><span class="stat-value">&lt;1%</span><span class="stat-label">power error versus blade-element momentum theory</span></div>
-    <div class="stat"><span class="stat-value">&lt;0.4%</span><span class="stat-label">power change from 3 to 30 points per blade (&gt;15% uncorrected)</span></div>
-    <div class="stat"><span class="stat-value">3</span><span class="stat-label">LES grid points per blade suffice</span></div>
-    <div class="stat"><span class="stat-value">&lt;0.5%</span><span class="stat-label">added cost per time step</span></div>
-  </div>
 
   <h3>Highlights</h3>
   <ol>
